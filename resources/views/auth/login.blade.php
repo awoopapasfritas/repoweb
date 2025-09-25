@@ -12,6 +12,7 @@
       <img src="https://i.kym-cdn.com/entries/icons/original/000/045/723/el_lobo_siempre_cuida_su_loba.jpg" id="icon" alt="User Icon" />
     </div>
  
+
     
     <!-- Login Form -->
     <form action="{{route ('login')}}" method="post">
